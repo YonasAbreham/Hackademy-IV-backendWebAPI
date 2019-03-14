@@ -1,0 +1,13 @@
+build
+*.gradle
+*.idea
+**/.idea/
+**/.gradle/
+*.class
+*.jar
+**/tmp
+*.db
+**/maven/
+**/build/
+src/test/resources/
+out
